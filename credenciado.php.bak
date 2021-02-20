@@ -1,0 +1,63 @@
+<?php include 'topo.php' ?>
+  
+	<br><br><br>
+ <div id="content" align="center"> 
+ 	 <div class="btn"  >
+          <a href="#"><h3>Pessoa Física</h3></a>
+      
+        </div>
+			 <div class="btn">
+          <a href="#"><h3>Pessoa jurídica</h3></a>
+      
+        </div>
+	
+	<section class="sec-padding about-content full-sec">
+		<div class="container">
+			<div class="row">
+				
+				<div class="col-lg-5 col-md-12">
+					<div class="full-sec-content">
+						<div class="sec-title style-two">
+							
+							<span class="decor">
+								<span class="inner"></span>
+							</span>
+						</div>
+						<h3>Credenciado </h3>
+						<br>
+						<p>Vantagens de ser
+um credenciado
+EQUIPE DEDICADA DE ATENDIMENTO
+APROVAÇÃO 24H ONLINE
+PORTAL EXCLUSIVO DO DENTISTA
+DIVULGAÇÃO DO SEU CONSULTÓRIO</p>
+						<br>
+
+
+						
+						
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</section>
+
+	 <!-- Contact Us -->
+   
+	
+	<section class="sec-padding testimonials-wrapper">
+			<div class="container">
+				<div class="sec-title colored text-center">
+					<h2>O Melhor Plano para você</h2>
+					<span class="decor">
+						<span class="inner"></span>
+					</span>
+					<h3>Crown Odonto</h3>
+				</div>
+				<div class="testimonaials-carousel owl-carousel owl-theme">
+				</div>
+			</div>
+	</section>
+  
+ <?php include 'rodape.php' ?>

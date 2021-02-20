@@ -1,0 +1,93 @@
+[30-May-2019 22:08:46 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[30-May-2019 22:08:47 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[31-May-2019 17:08:22 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[31-May-2019 17:08:23 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[31-May-2019 17:08:23 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[31-May-2019 17:08:23 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[31-May-2019 17:55:21 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[31-May-2019 17:55:21 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[31-May-2019 18:16:09 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[31-May-2019 18:16:09 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[01-Jun-2019 00:15:19 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[01-Jun-2019 00:15:20 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[02-Jun-2019 00:42:25 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[02-Jun-2019 00:42:25 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[02-Jun-2019 23:48:14 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[02-Jun-2019 23:50:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/dentista.php on line 43
+[02-Jun-2019 23:50:21 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[02-Jun-2019 23:52:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/dentista.php on line 81
+[03-Jun-2019 05:38:59 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[03-Jun-2019 05:41:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/dentista.php on line 43
+[03-Jun-2019 05:41:07 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[03-Jun-2019 05:43:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/dentista.php on line 81
+[04-Jun-2019 03:00:34 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[04-Jun-2019 03:00:35 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[04-Jun-2019 23:56:25 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[04-Jun-2019 23:56:26 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[04-Jun-2019 23:59:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/buscas.php on line 7
+[05-Jun-2019 01:59:43 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[05-Jun-2019 01:59:44 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[06-Jun-2019 16:37:40 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[06-Jun-2019 16:37:40 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[09-Jun-2019 02:37:34 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[09-Jun-2019 02:37:35 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[11-Jun-2019 20:11:25 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[11-Jun-2019 20:11:26 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/buscas.php on line 18
+[09-Aug-2019 01:13:20 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[09-Aug-2019 01:13:21 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[09-Aug-2019 01:14:10 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[09-Aug-2019 01:14:10 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[19-Aug-2019 19:11:28 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[19-Aug-2019 19:11:30 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[20-Sep-2019 18:30:44 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[20-Sep-2019 18:32:44 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[20-Sep-2019 18:32:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43
+[20-Sep-2019 18:32:52 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[20-Sep-2019 18:34:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43
+[20-Sep-2019 18:34:51 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[20-Sep-2019 18:34:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81
+[20-Sep-2019 18:36:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81
+[25-Oct-2019 18:49:41 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[25-Oct-2019 18:51:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43
+[25-Oct-2019 18:51:50 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[25-Oct-2019 18:53:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81
+[28-Oct-2019 10:50:29 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[28-Oct-2019 10:50:57 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[28-Oct-2019 10:52:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43
+[28-Oct-2019 10:52:36 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[28-Oct-2019 10:53:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43
+[28-Oct-2019 10:53:04 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[28-Oct-2019 10:54:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81
+[28-Oct-2019 10:55:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81
+[13-Jan-2021 20:19:12 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[13-Jan-2021 20:19:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43
+[13-Jan-2021 20:19:12 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[13-Jan-2021 20:19:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81
+[13-Jan-2021 21:57:52 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[13-Jan-2021 21:57:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43
+[13-Jan-2021 21:57:52 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[13-Jan-2021 21:57:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81
+[13-Jan-2021 22:01:15 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[13-Jan-2021 22:01:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43
+[13-Jan-2021 22:01:15 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[13-Jan-2021 22:01:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81
+[26-Jan-2021 21:16:07 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[26-Jan-2021 21:16:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43
+[26-Jan-2021 21:16:07 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[26-Jan-2021 21:16:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81
+[26-Jan-2021 21:39:18 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[26-Jan-2021 21:39:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43
+[26-Jan-2021 21:39:18 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[26-Jan-2021 21:39:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81
+[28-Jan-2021 19:22:58 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[28-Jan-2021 19:22:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43
+[28-Jan-2021 19:22:58 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[28-Jan-2021 19:22:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81
+[01-Feb-2021 19:28:50 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[01-Feb-2021 19:28:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43
+[01-Feb-2021 19:28:50 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[01-Feb-2021 19:28:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81
+[08-Feb-2021 18:22:43 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[08-Feb-2021 18:22:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/crown/dentista.php on line 43
+[08-Feb-2021 18:22:43 UTC] PHP Warning:  Missing argument 2 for resultados(), called in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81 and defined in /home/agenciacriacaowe/public_html/crown/buscas.php on line 18
+[08-Feb-2021 18:22:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agenciacriacaowe/public_html/crown/dentista.php on line 81

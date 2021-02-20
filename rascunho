@@ -1,0 +1,20 @@
+    // $especialidades = resultados("esp"); foreach ($especialidades['especialidades'] as $especialidade) { echo '<option value="'.$especialidade['codigoEspecialidade'].'">'.$especialidade['nomeEspecialidade'].'</option>'; }  
+     $url="https://sio-teste.fswise.com.br/Crown/api/dentistas/especialidades";
+    $ch= curl_init($url);
+    //curl_exec($ch);
+    curl_setopt($ch,CURLOPT_RETURNTRANSFER,true);
+    $resultado= json_decode(curl_exec($ch));
+    // //var_dump($resultado);
+    // foreach($resultado->especialidades as $especi){
+    // // var_dump($especi);
+    //  echo $especi->nomeEspecialidade."<br>";
+    // }
+    <select name="especialidadeDentista_a" id="especialidadeDentista_a" style="height:42px" class="form-control" data-toggle="tooltip" data-placement="top" title="" data-original-title="Posicione seu mouse em cima da especialidade desejada para ver sua descrição, ao identificar a opção desejada clique nela e efetua a busca.">
+    <?php 
+      foreach($resultado->especialidades as $especi){
+    ?>                   
+   <option value="<?php echo $especi->nomeEspecialidade?>" selected="selected"><?php echo $especi->nomeEspecialidade ?></option>
+   <?php
+      }
+      ?>
+   </select>

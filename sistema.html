@@ -1,0 +1,98 @@
+﻿<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+
+<br><br>ftp.agenciacriacaoweb.com.br<br><br>user agenciacriacaowe<br>senha Loca102030@@#<br><br>
+          <h2>sistema</h2>
+          <hr>
+          <span>Boa tarde,
+
+Não sei se o Celso te passou o detalhamento da API de busca de dentistas, que passei para ele, de qualquer forma, estou enviando abaixo.<br>
+Para esse processo não é preciso estar logado no sistema.<br>
+É possível integrar o login do sistema com o site, para que não haja a necessidade de acesso à tela de login específica do sistema nos acessos.<br>
+Nesse caso, existem 2 opções: simplesmente realizar o login e acessar diretamente o sistema, ou então fazer a autenticação no sistema e ficar logado no site.<br>
+Nessa última opção, terá que manter na sessão os dados de login do sistema e adicionar botões no site para chamadas das telas específicas do sistema.<br>
+O login é feito a partir da URL {URL_DO_SISTEMA}/LoginSite.do, onde é necessário fazer um submit no formulário do site para esse link.<br>
+Os campos do formulário que devem ser submetidos deverão ter os seguintes "name":<br>
+1-usuario.tipoLogin    - Nesse parâmetro podem ser passados os seguintes campos: <br><br>
+                                     1:dentista<br>
+                                     2:colaborador<br>
+                                     3:empresa<br>
+                                     7:beneficiário<br>
+                                     12:representante<br>
+2-usuario.login           - Aqui é passado o login do usuário<br>
+3-usuario.senha         - Aqui é passada a senha do usuário<br><br>
+
+O sistema retornará os dados do login que deverão ser mantidos em sessão, ou então a mensagem de erro em caso de login inválido.<br><br>
+<hr>
+<br>
+<br>
+<b>Detalhamento da busca de dentistas:</b><br>
+<br>
+<b>1-</b>Filtros:<br><br>
+O sistema permite filtrar a busca por nome de dentista/clínica, estado, cidade, bairro, indicador de atendimento a emergências e por especialidade.<br><br>
+
+<b>2-</b>Para o filtro de estado:<br>
+O sistema possui uma API onde é possível buscar todos os estados em que a operadora possui rede credenciada, para já preparar o campo da tela somente com os estados que possuem cobertura. O caminho da API é:<br>
+<br><b>LINK</b><br> 
+<b><br>http://wise.no-ip.info:1418/Crown/<br></b>
+<br>
+<b>{URL_DO_SISTEMA}/app/dentistas/estados<br></b>
+<br>
+<b><br>Exemplo da base de homologação: http://wise.no-ip.info:1418/Crown/app/dentistas/estados<br></b><br><hr>
+<br>
+Essa API retorna todos os estados e é importante salvar o código deles, pois é por essa informação que será filtrada as buscas.<br>
+<br>
+<b>3-</b>Para o filtro de cidade:<br>
+Após selecionar um estado para filtrar, é possível selecionar as cidades daquele estado.<br> O sistema também possui uma API que retorna somente as cidades que possuem cobertura da rede:<br>
+<br>
+<b>{URL_DO_SISTEMA}/app/dentistas/cidades/{codigo estado}<br></b>
+<br>
+<b>Exemplo da base de homologação: http://wise.no-ip.info:1418/Crown/app/dentistas/cidades/17 <br></b>
+<br>
+Nesse exemplo, está buscando todas as cidades do estado do Paraná que possuem rede.<br>
+Da mesma forma, é importante salvar os códigos das cidades.<br>
+<br>
+<b>4-</b>Para o filtro de bairro:<br>
+Da mesma forma que para os demais, existe uma API para buscar os bairros da cidade onde existe rede:<br>
+<br>
+<b>{URL_DO_SISTEMA}/app/dentistas/bairros/{codigo cidade}<br></b>
+<br>
+<b>Exemplo da base de homologação: http://wise.no-ip.info:1418/Crown/app/dentistas/bairros/55298<br></b>
+<br>
+Nesse exemplo, está buscando todos os bairros da cidade de Curitiba que possuem rede.<br>
+Importante, novamente, salvar os códigos dos bairros.
+<br>
+<b>5-</b>Para o filtro de especialidade:<br>
+O sistema possui uma API que retorna todas as especialidades existentes na rede credenciada, ou seja, <br>se existe alguma especialidade na área odontológica que nenhum credenciado da operadora atende, o sistema não retornará ela:<br>
+<br>
+<b>{URL_DO_SISTEMA}/app/dentistas/especialidades <br></b>
+<br>
+<b>Exemplo da base de homologação: http://wise.no-ip.info:1418/Crown/app/dentistas/especialidades<br> </b>
+<br>
+Importante, novamente, salvar os códigos das especialidades.<br>
+<br>
+<b>6-</b>Buscar dentistas:<br>
+Aqui entra a API de busca de dentistas, de fato. Possuindo os dados das APIs anteriores, para auxiliar com os filtros, é possível chamar essa para a busca.<br> Os dados são retornados em JSON e podem ser manipulados para exibição em tela da forma que o desenvolvedor melhor entender:<br>
+<br>
+<b>{URL_DO_SISTEMA}/app/dentistas?nome={nome_dentista_ou_clinica}&codigoEstado={codigo_estado}&codigoCidade={codigo_cidade}&codigoBairro={codigo_bairro}&indEmergencia={1_ou_0}&especialidade={codigo_especialidade}<br></b>
+<br>
+No caso do filtro de emergência, utilizar 1 para buscar dentistas que atendem emergência e 0 para os que não atendem.<br>
+Nenhum filtro é obrigatório, portanto fica a critério do site exigir que algum seja preenchido, caso queira.<br>
+<br>
+<b>Exemplo da base de homologação: http://wise.no-ip.info:1418/Crown/app/dentistas?codigoEstado=17&codigoCidade=55298<br></b>
+<br>
+Nesse exemplo, são buscados todos os dentistas do estado do Paraná, cidade de Curitiba.<br>
+Lembrando que a base de homologação não possui, ainda, dados reais da Crown Odonto. Por este motivo ainda existem poucos dentistas para buscar, <br>mas com esses exemplos já é possível verificar o formato no qual o sistema retorna os dados para o site.
+<br>
+Qualquer dúvida, estou à disposição.
+<br>
+
+site que funciona com o sistema
+
+http://www.dentaluni.com.br/
+Att.,
+Felipe Ritter
+Wise Systems® -   www.wises.com.br 
+Fone/Fax: (+55 41) 3363-2618
+Celular: (41) 9242-0242
