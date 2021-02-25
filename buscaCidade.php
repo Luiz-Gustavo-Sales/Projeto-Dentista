@@ -23,7 +23,8 @@
           }
         ?>
         </select>
-        <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+        <script type="text/javascript" src="dentistas.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
        
 
  
